@@ -1,7 +1,7 @@
 <h1>Yokoso🙏 ,I am Kaustubh Wahane</h1>
-<h3>Sailing through One Piece Red Line with React and JavaScript</h3>
+<h2>Sailing through One Piece Red Line with React and JavaScript</h2>
 
-- 🌱 I’m currently learning **MERN Stack , Next.js**
+<h3>- 🌱 I’m currently learning **MERN Stack , Next.js**</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustubhWahane/My-Portfolio-main](https://github.com/KaustubhWahane/My-Portfolio-main)
 
