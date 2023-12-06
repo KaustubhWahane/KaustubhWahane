@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kaustubh Wahane</h1>
-<h3 align="center">Sailing through One Piece Red Line with React and JavaScript</h3>
+<h1>Yokoso🙏 ,I am Kaustubh Wahane</h1>
+<h3>Sailing through One Piece Red Line with React and JavaScript</h3>
 
 - 🌱 I’m currently learning **MERN Stack , Next.js**
 
