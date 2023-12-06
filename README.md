@@ -3,9 +3,9 @@
 
 <h3>- 🌱 I’m currently learning **MERN Stack , Next.js**</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaustubhWahane/My-Portfolio-main](https://github.com/KaustubhWahane/My-Portfolio-main)
+<h3>- - 👨‍💻 All of my projects are available at [https://github.com/KaustubhWahane/My-Portfolio-main](https://github.com/KaustubhWahane/My-Portfolio-main)</h3>
 
-- 💬 Ask me about **React, HTML-CSS-JS, Java, MERN, Angular**
+<h3>- 💬 Ask me about **React, HTML-CSS-JS, Java, MERN, Angular**</h3>
 
 - 📫 How to reach me **kaustubhwahane55@gmail.com**
 
