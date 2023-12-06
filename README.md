@@ -5,12 +5,11 @@
 
 <h3>- - 👨‍💻 All of my projects are available at [https://github.com/KaustubhWahane/My-Portfolio-main](https://github.com/KaustubhWahane/My-Portfolio-main)</h3>
 
-<h3>- 💬 Ask me about **React, HTML-CSS-JS, Java, MERN, Angular**</h3>
+<h3>- 💬 Ask me about **React, HTML-CSS-JS, Java, MERN, Angular</h3>
 
-- 📫 How to reach me **kaustubhwahane55@gmail.com**
+<h3>- 📫 How to reach me **kaustubhwahane55@gmail.com**</h3>
 
-- ⚡ Fun fact **Honestly I am Smart but everyone laughs at me**
-
+<h3>- ⚡ Fun fact **Honestly I am Smart but everyone laughs at me**</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-wahane-b09b1b29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-wahane-b09b1b29a/" height="30" width="40" /></a>
