@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Wahane</h1>
 <h3 align="center">Sailing through One Piece Red Line with React and JavaScript</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhwahane" alt="kaustubhwahane" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack , Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustubhWahane/My-Portfolio-main](https://github.com/KaustubhWahane/My-Portfolio-main)
