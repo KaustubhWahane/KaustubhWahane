@@ -2,8 +2,8 @@
 <head>
 </head>
 <body>
-<h1 style="  background-image: url('/cssTextWrap.jpg'); background-size: contain; box-shadow: 0px 2px 10px rgba(0, 0, 0, .07); background-clip: text; -webkit-background-clip: text; color: transparent;">🙏Namaste🙏 Myself Kaustubh Wahane</h1>
-<h2 style=" color: red;">Sailing through One Piece Red Line with React and JavaScript</h2>
+<h1 style="color: red;">🙏Namaste🙏 Myself Kaustubh Wahane</h1>
+<h2 style=" color: yellow;">Sailing through One Piece Red Line with React and JavaScript</h2>
 
 <h3>- 🧠 I'm currently learning MERN Stack with an additional tools such as Tailwind CSS, GitHub, SASS and Chakra UI</h3>
 
