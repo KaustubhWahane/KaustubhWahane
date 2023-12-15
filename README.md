@@ -1,28 +1,36 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Yokoso🙏 ,I am Kaustubh Wahane</h1>
+    <style>
+        h1{
+            background-image: url('/cssTextWrap.jpg');
+            background-size: contain;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, .07);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+        h2{
+            color: red;
+        }
+    </style>
+<h1>🙏Namaste🙏 Myself Kaustubh Wahane</h1>
 <h2>Sailing through One Piece Red Line with React and JavaScript</h2>
 
-<h3>- 🌱 I'm currently learning **MERN Stack , Next.js</h3>
+<h3>- 🧠 I'm currently learning MERN Stack with an additional tools such as Tailwind CSS, GitHub, SASS and Chakra UI</h3>
 
+<h3>- 💬 Ask me about React, Front-End, Java, MERN, Angular, Tailwind</h3>
 
-<h3>- 💬 Ask me about React, HTML-CSS-JS, Java, MERN, Angular</h3>
+<h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
 
-<h3>- 📫 How to reach me kaustubhwahane55@gmail.com</h3>
-
-<h3>- ⚡ Fun fact Honestly I am Smart but everyone laughs at me</h3>
-<div style="border : 1px solid aqua">
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+<h3>- 🤓 Fun fact about me - Honestly I am Smart but everyone laughs at me</h3>
+<div style="border : 1px solid red">
+  <h3 align="center">⚡ Unleash Your Haki of Collaboration ⚡</h3>
+  <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-wahane-b09b1b29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-wahane-b09b1b29a/" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/kaustubh.wahane.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kaustubh.wahane.3" height="30" width="40" /></a>
   <a href="https://instagram.com/https://www.instagram.com/the_funny_ziprya52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_funny_ziprya52/" height="30" width="40" /></a>
-  <a href="https://discord.gg/zipryathegawd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zipryathegawd" height="30" width="40" /></a>
   </p>
 </div>
 
