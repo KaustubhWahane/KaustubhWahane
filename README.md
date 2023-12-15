@@ -2,12 +2,9 @@
 <head>
 </head>
 <body>
-<h1>🙏Namaste🙏 Myself Kaustubh Wahane</h1>
-<h2>Sailing through One Piece Red Line with React and JavaScript</h2>
+<h3>🙏 Namaste! I'm Kaustubh Wahane, a Cognizant web developer passionate about learning, tweaking, and building websites. When not immersed in coding difficulty, you'll find me captivated by the adventures of Luffy and the Straw Hat Pirates in One Piece. A fervent learner, I embrace coding challenges as opportunities for growth. Let's connect on this coding journey, share knowledge, and maybe chat about our favorite anime moments! 👨‍💻🌐🎮</h3>
 
-<h3>- 🧠 I'm currently learning MERN Stack with an additional tools such as Tailwind CSS, GitHub, SASS and Chakra UI</h3>
-
-<h3>- 💬 Ask me about React, Front-End, Java, MERN, Angular, Tailwind</h3>
+<h3>- 💬 Currently diving deep into the MERN stack, I am enthusiastically learning the intricacies of MongoDB, Express.js, React.js, and Node.js. My toolkit extends to include Tailwind CSS, additional Node.js topics, and proficiency in GitHub and SASS. Beyond the MERN stack, I bring knowledge in Angular, various front-end tools, and Java. Each project is an opportunity to hone my skills and explore the ever-expanding landscape of web development</h3>
 
 <h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
 
