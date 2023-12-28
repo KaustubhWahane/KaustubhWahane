@@ -1,5 +1,11 @@
+<div style="position: relative;">
+![Black hole animation](https://github.com/KaustubhWahane/KaustubhWahane/assets/110345555/8b1a2d16-ea25-418e-9aef-eb18e19c287d)
+</div>
 
-<div style="position: relative; color: white;">
+
+
+
+<div style="position: absolute ; color: white;">
 <h3>Kaustubh Wahane, a passionate Cognizant web developer, is currently delving into the complexity of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. My extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in Tailwind, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. I see coding challenges as opportunities for growth which embraces me each project as a chance to hone my skills in the dynamic field of web development while enjoying the journey of learning my Web Development course. 🚀💻🌐</h3>
 <h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
 <h3>- 🤓 Fun fact about me - Honestly I am Smart but everyone laughs at me</h3>
