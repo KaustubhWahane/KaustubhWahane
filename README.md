@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<h3>Kaustubh Wahane, a passionate Cognizant web developer, is currently delving into the intricacies of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. His extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in SASS, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. Kaustubh sees coding challenges as opportunities for growth and embraces each project as a chance to hone his skills in the dynamic field of web development while enjoying the adventures of Luffy and the Straw Hat Pirates in One Piece during leisure. 🚀💻🌐</h3>
+<h3>Kaustubh Wahane, a passionate Cognizant web developer, is currently delving into the intricacies of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. My extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in Tailwind, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. I see coding challenges as opportunities for growth and embraces each project as a chance to hone his skills in the dynamic field of web development while enjoying the journey of learning my Web Development course. 🚀💻🌐</h3>
 
 <h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
 
