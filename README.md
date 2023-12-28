@@ -1,4 +1,4 @@
-<img style=" position: absolute; " src="/Black hole animation.gif" alt="">
+<img style=" position: absolute; " src="[/Black hole animation.gif](https://imgur.com/gallery/JyIG8O5)" alt="">
 <div style="position: relative; color: white;">
 <h3>Kaustubh Wahane, a passionate Cognizant web developer, is currently delving into the complexity of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. My extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in Tailwind, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. I see coding challenges as opportunities for growth which embraces me each project as a chance to hone my skills in the dynamic field of web development while enjoying the journey of learning my Web Development course. 🚀💻🌐</h3>
 <h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
