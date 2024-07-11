@@ -1,6 +1,6 @@
 
 <div>
-<h3>Kaustubh Wahane, a passionate Cognizant web developer, is currently delving into the complexity of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. My extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in Tailwind, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. I see coding challenges as opportunities for growth which embraces me each project as a chance to hone my skills in the dynamic field of web development while enjoying the journey of learning my Web Development course. 🚀💻🌐</h3>
+<h3>Kaustubh Wahane, a Techsavvy web developer, is currently delving into the complexity of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. My extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in Tailwind, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. I see coding challenges as opportunities for growth which embraces me each project as a chance to hone my skills in the dynamic field of web development while enjoying the journey of learning my Web Development course. 🚀💻🌐</h3>
     <div style="display: flex; justify-content: center; align-items: center;">
   <h2>My mind is currently absorbing knowledge similarly to this guy 😁</h2>
 
