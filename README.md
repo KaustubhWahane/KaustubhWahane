@@ -7,8 +7,8 @@
 ![ezgif com-resize (1)](https://github.com/KaustubhWahane/KaustubhWahane/assets/110345555/8c1eec0c-a733-43a6-8016-771b433406f0)
     </div>
 <h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
-<h3>- 🤓 Fun fact about me - Honestly I am Smart but everyone laughs at me</h3>
-  <h3 align="center">⚡ Unleash Your Haki of Collaboration ⚡</h3>
+<h3>- 🤓 Fun fact about me - Not a mind reader, but I always get the message</h3>
+  <h3 align="center"> You can also contact me via </h3>
   <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-wahane-b09b1b29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-wahane-b09b1b29a/" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/kaustubh.wahane.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kaustubh.wahane.3" height="30" width="40" /></a>
