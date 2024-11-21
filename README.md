@@ -2,10 +2,6 @@
 <div>
 <h3>Kaustubh Wahane, a Techsavvy web developer, is currently delving into the complexity of the MERN stack, with a focus on MongoDB, Express.js, React.js, and Node.js. My extensive toolkit includes Tailwind CSS, GitHub proficiency, and expertise in Tailwind, extending beyond the MERN stack to encompass Angular, various front-end tools, and Java. I see coding challenges as opportunities for growth which embraces me each project as a chance to hone my skills in the dynamic field of web development while enjoying the journey of learning my Web Development course. 🚀💻🌐</h3>
     <div style="display: flex; justify-content: center; align-items: center;">
-  <h2>My mind is currently absorbing knowledge similarly to this guy 😁</h2>
-
-![ezgif com-resize (1)](https://github.com/KaustubhWahane/KaustubhWahane/assets/110345555/8c1eec0c-a733-43a6-8016-771b433406f0)
-    </div>
 <h3>-📫 You can reach me with my personal email kaustubhwahane55@gmail.com</h3>
 <h3>- 🤓 Fun fact about me - Not a mind reader, but I always get the message</h3>
   <h3 align="center"> You can also contact me via </h3>
